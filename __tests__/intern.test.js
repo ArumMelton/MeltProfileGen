@@ -1,4 +1,4 @@
-const Intern = require("../lib/Intern");
+const Intern = require("../lib/intern");
 
 // tests for Intern class
 test("initiate an intern", () => {
