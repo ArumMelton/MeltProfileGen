@@ -1,15 +1,15 @@
-// required files
+// required files //
 const Employee = require("../generationprofile/lib/employee.js");
 const Manager = require("../generationprofile/lib/manager.js");
 const Intern = require("../generationprofile/lib/intern.js");
 const Engineer = require("../generationprofile/lib/engineer.js");
 const generatePage = require("../generationprofile/src/page-template");
 
-// required modules
+// required modules//
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-// Arrays of questions for inquirer
+// Arrays of questions for inquirer //
 const managerQuestions = [
   {
     type: "text",
@@ -120,6 +120,8 @@ const engineerQuestions = [
   },
 ];
 
+// questions for interns //
+
 const internQuestions = [
   {
     type: "text",
@@ -175,7 +177,7 @@ const internQuestions = [
   },
 ];
 
-// The function that creates the employeeData array through inquirer prompts
+// The function that creates the employeeData array through inquirer prompts //
 function getEmployeeInfo() {
   employeeData = [];
   this.manager;
@@ -183,7 +185,7 @@ function getEmployeeInfo() {
   this.intern;
 }
 
-// function that prompts the user for manager questions and then pushes the data to the array and calls the nextTeamMember()
+// function that prompts the user for manager questions and then pushes the data to the array and calls the nextTeamMember function //
 getEmployeeInfo.prototype.getManager = function () {
   console.log("Please build your team");
   inquirer.prompt(managerQuestions).then(({ name, id, email, office }) => {
@@ -238,7 +240,7 @@ getEmployeeInfo.prototype.getIntern = function () {
 };
 
 // function that writes the index.html file by sending the data to the template in the generatePage function with the output going to the dist folder
-// also copies style.css to the dist folder
+// also copies style.css to the dist folder //
 function writeProfile() {
   const pageHTML = generatePage(employeeData);
   fs.writeFile("./dist/index.html", pageHTML, (err) => {
