@@ -7,7 +7,7 @@
 
 
 
-https://user-images.githubusercontent.com/103224098/190285979-c3ac279b-35ba-466d-8735-2171d73c9efd.mov
+
 
 
 
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/103224098/190285979-c3ac279b-35ba-466d
 <br />
 <div align="center">
   <a href="https://github.com/ArumMelton/MeltProfileGen">
-    <img src="./Demo/GeneratedHTMLDemo.png" alt="Demo" width="250" height="250">
+   
   </a>
 
 <h3 align="center">TeamProGen</h3>
@@ -72,6 +72,9 @@ A command liine application that is designed to help keep track of your team.
 <br/>
 
 ![TeamScreen](/Demo/imgs/GeneratedHTMLDemo.png)
+
+
+https://user-images.githubusercontent.com/103224098/190286291-2851cc0a-3815-4c50-9eec-d4ab3a377010.mov
 
 
 <p align="right"><a href="#top">back to top</a></p>
