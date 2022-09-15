@@ -9,12 +9,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/ArumMelton/MeltProfileGen">
-    <img src="Demo/GeneratedHTMLDemo.png" alt="Demo" width="250" height="250">
+    <img src="./Demo/GeneratedHTMLDemo.png" alt="Demo" width="250" height="250">
   </a>
 
 <h3 align="center">TeamProGen</h3>
 <br>
-<video src="Demo/MeltProfileGenWalkthrough" width="500" height="auto">
+<video src="./Demo/MeltProfileGenWalkthrough" width="500" height="auto">
   <p align="center">
     TeamProGen allows the user to generate a team profile by invoking the application through the command terminal and answering the prompted questions.
     <br />
@@ -57,7 +57,7 @@
 
 
 ## About The Project
-<h3 align="center">Sip Happens!</h3>
+<h3 align="center">TeamProGen!</h3>
 
 
 
