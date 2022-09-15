@@ -178,8 +178,7 @@ Arum Melton - arumjmelton@gmail.com
 <!-- LICENSE -->
 ## License
 
-Distributed under the ISC License. See `LICENSE.txt` for more information.
-
+Distributed under the ISC License.
 <p align="right"><a href="#top">back to top</a></p>
 
 
