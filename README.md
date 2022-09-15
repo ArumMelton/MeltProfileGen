@@ -22,7 +22,6 @@ https://user-images.githubusercontent.com/103224098/190285979-c3ac279b-35ba-466d
 
 <h3 align="center">TeamProGen</h3>
 <br>
-<video src="./Demo/MeltProfileGenWalkthrough" width="500" height="auto">
   <p align="center">
     TeamProGen allows the user to generate a team profile by invoking the application through the command terminal and answering the prompted questions.
     <br />
