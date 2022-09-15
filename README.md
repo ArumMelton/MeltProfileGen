@@ -74,7 +74,6 @@ A command liine application that is designed to help keep track of your team.
 ### Built With
 
 * [Node.js](https://nodejs.org/en/)
-* [Express Session / Connect Session Sequelize](https://pixijs.com/)
 * [ExpressJs](https://expressjs.com/)
 
 #### Addtional Tools
@@ -175,9 +174,9 @@ Distributed under the ISC License. See `LICENSE.txt` for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/badge/Sip%20Happens-View%20Contributors-brightgreen
+[contributors-shield]: https://img.shields.io/badge/TeamProGen-View%20Contributors-brightgreen
 [contributors-url]: https://github.com/ArumMelton/MeltProfileGen/graphs/contributors
-[issues-shield]: https://img.shields.io/badge/Sip%20Happens-View%20Issues-red
+[issues-shield]: https://img.shields.io/badge/TeamProGen-View%20Issues-red
 [issues-url]: https://github.com/ArumMelton/MeltProfileGen/issues
 [license-shield]: https://img.shields.io/badge/license-ISC-green
 [license-url]: https://github.com/ArumMelton/MeltProfileGen/blob/Readme/LICENSE.txt
